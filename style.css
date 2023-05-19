@@ -33,3 +33,17 @@ nav {
     background-color: black;
     border-color: white;
 }
+
+main {
+    background-color: white;
+    border-color:blueviolet;
+
+}
+
+footer {
+    background-color:aqua
+}
+
+table, th, td {
+    border: 1px soild black;
+}
